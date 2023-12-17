@@ -1,0 +1,70 @@
+.outterBoxStyle {
+    top: 0px;
+    left: 0px;
+    width: 800px;
+    height: 500px;
+    position: fixed;
+}
+
+.marioStyle {
+    top: 360px;
+    left: 5px;
+    width: 100px;
+    height: 80px; 
+    position: fixed;
+    /* background-color: blue; */
+
+}
+
+.jumpButtonStyle {
+    border: 0px;
+    top: 100px;
+    left: 100px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    width: 250;
+    height: 100;
+    position: center;
+    /* display: none; */
+}
+
+.stopButtonStyle {
+    border: 0px;
+    top: 100px;
+    left: 100px;
+    margin: 10px;
+    background-color: rgb(102, 255, 0);
+    color: white;
+    font-weight: bold;
+    width: 250;
+    height: 100;
+    position: center;
+}
+
+.mushroomStyle {
+    top: 380px;
+    right: 5px;
+    width: 100px;
+    height: 80px; 
+    position: fixed;
+    /* background-color: red; */
+}
+
+.backgroundStyle {
+    width: 5000px;
+    height: 510px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.gameoverStyle {
+    display: none;
+    top: 5%;
+    left: 30%;
+    width: 700px;
+    height: 550px;
+    position: fixed;
+}

@@ -1,5 +1,12 @@
-# mini-projects-with-web  
+# mini-projects-with-web    
 
+> 아래 수업을 듣고 해 본 프로젝트입니다.
+- 교육명: Web 프로그래밍(HTML, CSS, JavaScript, jQuery)
+- 교육기간: 23.09.18~23.10.06
+- 교육시수: 80시간
+- 교육기관: 한국폴리텍대학(분당융합기술교육원) 임베디드시스템과 
+
+---  
 - 프로젝트명 : 슈퍼마리오 게임 구현 with 제이쿼리  
 - 기능  분석 : 
   
